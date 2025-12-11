@@ -50,7 +50,7 @@ Antes da implementação, foi realizada uma análise dos requisitos para ajusar 
 
 - MySQL 8+.
 - MySQL Workbench (modelagem e script).
-- LucidChart (DER - Diagrama Entidade-Relacionamento).
+- LucidChart.
 
 ## :arrow_forward: Como rodar
 
