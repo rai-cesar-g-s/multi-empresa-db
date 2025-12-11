@@ -65,7 +65,7 @@ Antes da implementação, foi realizada uma análise dos requisitos para ajusar 
 Este projeto foi desenvolvido em dupla:
 
 **Rai César Gomes da Silva**
-- Diagrama DER.
+- Modelo fisico simplificado.
 - Criação do banco e das tabelas.
 - Procedures:
     - inserir_contas_pagar.
